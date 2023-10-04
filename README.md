@@ -26,7 +26,7 @@
 
 
 | set App name & icon| 
-| :---: | :---: |
+| :---: | 
 | ![](screenshots/5.png) | 
 
 
